@@ -8,7 +8,8 @@ Utilized pair plots to visualize relationships between feature pairs, with speci
 Employed box plots to examine feature distributions and identify outliers.
 Created a heatmap to assess correlations among attributes.
 Implemented data preprocessing using Label Encoder.
-Model Training:
+
+**Model Training:**
 Split the dataset into training and testing sets.
 Trained multiple models including Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Naive Bayes, Decision Tree, and Random Forest.
 
@@ -18,12 +19,15 @@ Pipeline Creation Summary:
 Extract:
 Data gathered from the Bureau of Transportation and Statistics.
 Uploaded to Google Cloud Platform storage buckets.
+
 Transform:
 Utilized Google Cloud Data Fusion with Wrangler for data cleaning and transformation.
 Process involved filtering and aggregation, focusing on the top 5 states.
+
 Load:
 Loaded transformed data into BigQuery for advanced and real-time analytics.
-Data Visualization Techniques and Insights:
+
+**Data Visualization Techniques and Insights:**
 Bar Plot: Identified airports with average fares.
 Histogram: Showcased differences between the highest and lowest average fares.
 Bubble Charts: Compared travel intensity and average fares across different states.
@@ -32,13 +36,17 @@ Visual tools highlighted variations in data distribution, revealing key insights
 
 ## Project 3: Insights from Various Situation-Based Analyses
 
-Problems and Visualization Techniques:
+**Problems and Visualization Techniques:**
+
 Problem 1: Bivariate Analysis of Heights
 Scatter Plot: Visualized the relationship between sister and brother heights to understand distribution and correlation.
+
 Problem 2: Exam Anxiety and Performance
 Scatter Plot with Regression Line: Showed the negative relationship between anxiety and exam scores.
+
 Problem 3: Analysis of Variance (ANOVA)
 Boxplots: Used to compare rat weights across different feed types.
 ANOVA Table: Summarized the statistical test results, including sum of squares, mean squares, F-statistic, and p-values.
+
 Problem 4: Empathy Across Game Types
 Boxplot: Grouped by game type (GTA, HalfLife, Neutral) to represent empathy scores distribution.
