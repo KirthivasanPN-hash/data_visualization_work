@@ -42,7 +42,7 @@ Visual tools highlighted variations in data distribution, revealing key insights
 
 ## Project 3: Iris Flower Classification
 
-** Project Summary:** 
+**Project Summary:** 
 Exploratory Data Analysis (EDA): Conducted an in-depth analysis to classify the dataset based on petal and sepal dimensions.
 Utilized pair plots to visualize relationships between feature pairs, with species differentiated by color.
 Employed box plots to examine feature distributions and identify outliers.
