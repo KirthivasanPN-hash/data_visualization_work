@@ -1,4 +1,4 @@
-Data Visualization Projects Portfolio
+** Data Visualization Projects Portfolio **
 Project 1: Iris Flower Classification
 Summary:
 Exploratory Data Analysis (EDA): Conducted an in-depth analysis to classify the dataset based on petal and sepal dimensions.
