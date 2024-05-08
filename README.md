@@ -1,7 +1,8 @@
- **#Data Visualization Projects Portfolio**
+ # Data Visualization Projects Portfolio
 
-Project 1: Iris Flower Classification
-Summary:
+## Project 1: Iris Flower Classification**
+
+**Summary:** 
 Exploratory Data Analysis (EDA): Conducted an in-depth analysis to classify the dataset based on petal and sepal dimensions.
 Utilized pair plots to visualize relationships between feature pairs, with species differentiated by color.
 Employed box plots to examine feature distributions and identify outliers.
@@ -10,7 +11,9 @@ Implemented data preprocessing using Label Encoder.
 Model Training:
 Split the dataset into training and testing sets.
 Trained multiple models including Logistic Regression, K-Nearest Neighbors, Support Vector Machine, Naive Bayes, Decision Tree, and Random Forest.
-Project 2: Aviation Itinerary Fare Dataset Analysis
+
+## Project 2: Aviation Itinerary Fare Dataset Analysis
+
 Pipeline Creation Summary:
 Extract:
 Data gathered from the Bureau of Transportation and Statistics.
@@ -26,7 +29,9 @@ Histogram: Showcased differences between the highest and lowest average fares.
 Bubble Charts: Compared travel intensity and average fares across different states.
 Insights:
 Visual tools highlighted variations in data distribution, revealing key insights into typical behaviors and characteristics within the dataset.
-Project 3: Insights from Various Situation-Based Analyses
+
+## Project 3: Insights from Various Situation-Based Analyses
+
 Problems and Visualization Techniques:
 Problem 1: Bivariate Analysis of Heights
 Scatter Plot: Visualized the relationship between sister and brother heights to understand distribution and correlation.
