@@ -2,7 +2,7 @@
 
 ## Project 1: Insights from Various Situation-Based Analysis
 
-**Problems and Visualization Techniques:**
+**Problems and Visualization Techniques Summary:**
 
 Problem 1: Bivariate Analysis of Heights
 Scatter Plot: Visualized the relationship between sister and brother heights to understand distribution and correlation.
