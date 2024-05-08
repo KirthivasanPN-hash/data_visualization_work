@@ -20,7 +20,7 @@ Boxplot: Grouped by game type (GTA, HalfLife, Neutral) to represent empathy scor
 
 ## Project 2: Aviation Itinerary Fare Dataset Analysis
 
-Pipeline Creation Summary:
+**Pipeline Creation Summary:**
 Extract:
 Data gathered from the Bureau of Transportation and Statistics.
 Uploaded to Google Cloud Platform storage buckets.
