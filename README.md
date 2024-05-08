@@ -27,7 +27,7 @@ Process involved filtering and aggregation, focusing on the top 5 states.
 Load:
 Loaded transformed data into BigQuery for advanced and real-time analytics.
 
-**Data Visualization Techniques and Insights:**
+**Data Visualization Techniques and Insights Summary:**
 Bar Plot: Identified airports with average fares.
 Histogram: Showcased differences between the highest and lowest average fares.
 Bubble Charts: Compared travel intensity and average fares across different states.
