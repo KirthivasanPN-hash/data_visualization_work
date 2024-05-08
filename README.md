@@ -34,10 +34,9 @@ Loaded transformed data into BigQuery for advanced and real-time analytics.
 
 **Data Visualization Techniques and Insights Summary:**
 Bar Plot: Identified airports with average fares.
-Histogram: Showcased differences between the highest and lowest average fares.
+Bar Chart: Showcased differences between the highest and lowest average fares.
 Bubble Charts: Compared travel intensity and average fares across different states.
-Insights:
-Visual tools highlighted variations in data distribution, revealing key insights into typical behaviors and characteristics within the dataset.
+Insights: Visual tools highlighted variations in data distribution, revealing key insights within dataset. 
 
 
 ## Project 3: Iris Flower Classification
@@ -47,7 +46,7 @@ Exploratory Data Analysis (EDA): Conducted an in-depth analysis to classify the 
 Utilized pair plots to visualize relationships between feature pairs, with species differentiated by color.
 Employed box plots to examine feature distributions and identify outliers.
 Created a heatmap to assess correlations among attributes.
-Implemented data preprocessing using Label Encoder.
+Implemented data preprocessing using Label Encoder to train machine learning models. 
 
 **Model Training:**
 Split the dataset into training and testing sets.
